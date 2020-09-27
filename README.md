@@ -16,13 +16,13 @@
     <li>CSS</li>
 </ul>
 <hr/>
-<h3>Softwares utilizadas:</h3>
+<h3>Softwares utilizados:</h3>
 <ul>
     <li>Visual Studio Code (Codificação)</li>
     <li>Figma (Designer)</li>
     <li>PhotoShop (Designer)</li>
 </ul>
 <hr/>
-<p>OBS: O designer pode não estar totalmente idêntico, pois não posui todas as funcionalidades, neste doi construido somente a home.</p>
+<p>OBS: O designer pode não estar totalmente idêntico, pois não posui todas as funcionalidades, neste foi construido somente a home.</p>
 
-<p>Vlw, flw👨🏽‍💻🚀🚀.</p>
+<p>Agora partiu assistir 2° temporada de TheBoys<br/>Vlw, flw👨🏽‍💻🚀🚀.</p>
