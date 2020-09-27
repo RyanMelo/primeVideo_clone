@@ -1,0 +1,148 @@
+@media (max-width: 1335px) {
+    .menu {
+        width: 40vw;
+    }
+
+    .title-categoria span {
+        width: 80%;
+    }
+}
+
+@media (max-width: 815px) {
+    .menu {
+        width: 30vw;
+    }
+
+    .menu h3 {
+        font-size: 12px;
+    }
+
+    .logo img {
+        width: 130px;
+    }
+}
+
+@media (max-width: 634px) {
+    .menu {
+        width: 35vw;
+    }
+
+    .menu h3 {
+        font-size: 12px;
+    }
+
+    .logo img {
+        width: 100px;
+    }
+}
+
+@media (max-width: 414px) {
+    .menu {
+        width: 45vw;
+    }
+
+    .menu h3 {
+        font-size: 9px;
+    }
+
+    .logo img {
+        width: 100px;
+    }
+
+    .icon-account img{
+        width: 40px;
+    }
+
+    .title-categoria span {
+        width: 60%;
+    }
+
+    .categorias .categoria-filmes .capas-filmes {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        margin-left: 20px;
+    }
+
+    .categorias .categoria-filmes .capas-filmes img {
+        margin-top: 12px;
+    }
+}
+
+@media (max-width: 375px) {
+    .menu {
+        width: 40vw;
+    }
+
+    .menu h3 {
+        font-size: 9px;
+    }
+
+    .logo img {
+        width: 80px;
+    }
+
+    .icon-account img{
+        width: 30px;
+    }
+}
+
+@media (max-width: 360px) {
+    .menu {
+        width: 40vw;
+    }
+
+    .menu h3 {
+        font-size: 8px;
+    }
+
+    .logo img {
+        width: 80px;
+    }
+
+    .icon-account img{
+        width: 40px;
+    }
+
+    .title-categoria span {
+        width: 40%;
+    }
+}
+
+@media (max-width: 320px) {
+    .menu {
+        width: 45vw;
+    }
+
+    .menu h3 {
+        font-size: 9px;
+    }
+
+    .logo img {
+        width: 70px;
+    }
+
+    .icon-account img{
+        width: 30px;
+    }
+
+    .title-categoria span {
+        width: 60%;
+    }
+
+    .categorias .categoria-filmes .capas-filmes {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+
+        margin-left: 4px;
+    }
+
+    .categorias .categoria-filmes .capas-filmes img {
+        margin-top: 12px;
+    }
+
+    .title-categoria span {
+        width: 30%;
+    }
+}
+
